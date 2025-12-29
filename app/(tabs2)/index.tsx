@@ -18,7 +18,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Bienvenido a destino180!</ThemedText>
+        <ThemedText type="title">Bienvenido a b!</ThemedText>
       </ThemedView>
     </ParallaxScrollView>
   );
